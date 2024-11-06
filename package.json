@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1",
+    "netlify-cli": "^17.37.2",
+    "socket.io": "^4.8.1"
+  },
+  "name": "4",
+  "version": "1.0.0",
+  "description": "Vue 3 project using Vite.  real-time-bigquery-vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
